@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ViewCell 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Planets.cells.PlanetItemCell">
+
+    <Grid HorizontalOptions="FillAndExpand"
+            VerticalOptions="EndAndExpand" 
+            Margin="5,5,5,5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+
+        <StackLayout
+          Orientation="Vertical">
+
+            <Label 
+              VerticalOptions="Center"
+              HorizontalOptions="FillAndExpand"
+              Text="{Binding name}"
+              FontSize="Small"
+              TextColor="Black"/>
+
+            <Label 
+              VerticalOptions="Center"
+              HorizontalOptions="FillAndExpand"
+              Text="{Binding terrain}"
+              FontSize="Micro"
+              TextColor="Black"/>
+        </StackLayout>
+
+    </Grid>
+
+</ViewCell>

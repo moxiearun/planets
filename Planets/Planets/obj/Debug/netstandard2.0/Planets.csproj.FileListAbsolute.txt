@@ -1,0 +1,14 @@
+C:\Users\arunramakrishnan.aru\source\repos\Planets\Planets\Planets\bin\Debug\netstandard2.0\Planets.deps.json
+C:\Users\arunramakrishnan.aru\source\repos\Planets\Planets\Planets\bin\Debug\netstandard2.0\Planets.dll
+C:\Users\arunramakrishnan.aru\source\repos\Planets\Planets\Planets\bin\Debug\netstandard2.0\Planets.pdb
+C:\Users\arunramakrishnan.aru\source\repos\Planets\Planets\Planets\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\arunramakrishnan.aru\source\repos\Planets\Planets\Planets\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\arunramakrishnan.aru\source\repos\Planets\Planets\Planets\obj\Debug\netstandard2.0\pages\PlanetsListPage.xaml.g.cs
+C:\Users\arunramakrishnan.aru\source\repos\Planets\Planets\Planets\obj\Debug\netstandard2.0\Planets.csproj.CoreCompileInputs.cache
+C:\Users\arunramakrishnan.aru\source\repos\Planets\Planets\Planets\obj\Debug\netstandard2.0\Planets.AssemblyInfoInputs.cache
+C:\Users\arunramakrishnan.aru\source\repos\Planets\Planets\Planets\obj\Debug\netstandard2.0\Planets.AssemblyInfo.cs
+C:\Users\arunramakrishnan.aru\source\repos\Planets\Planets\Planets\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\arunramakrishnan.aru\source\repos\Planets\Planets\Planets\obj\Debug\netstandard2.0\Planets.dll
+C:\Users\arunramakrishnan.aru\source\repos\Planets\Planets\Planets\obj\Debug\netstandard2.0\Planets.pdb
+C:\Users\arunramakrishnan.aru\source\repos\Planets\Planets\Planets\obj\Debug\netstandard2.0\Planets.csprojResolveAssemblyReference.cache
+C:\Users\arunramakrishnan.aru\source\repos\Planets\Planets\Planets\obj\Debug\netstandard2.0\cells\PlanetItemCell.xaml.g.cs
